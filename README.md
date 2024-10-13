@@ -1,8 +1,22 @@
-# React + Vite
+# Nike Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a landing page for Nike, showcasing modern web design with responsive layouts.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design with Tailwind CSS
+- Clean and minimal UI
+- Fast and efficient with Vite setup
+
+## Tech Stack
+
+- **React**: Frontend JavaScript library
+- **Tailwind CSS**: Utility-first CSS framework
+- **Vite**: Fast development server and build tool
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Faidunni/Nike-Landing-Page.git
+   ```
