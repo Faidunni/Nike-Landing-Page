@@ -28,7 +28,7 @@ const App = () => {
       <section
         className="padding"
         data-aos="fade-down"
-        data-aos-duration="1500"
+        data-aos-duration="1000"
         data-aos-delay="500"
       >
         <PopularProducts />
@@ -36,7 +36,7 @@ const App = () => {
       <section
         className="padding"
         data-aos="fade-down"
-        data-aos-duration="1500"
+        data-aos-duration="1000"
         data-aos-delay="500"
       >
         <SuperQuality />
@@ -44,7 +44,7 @@ const App = () => {
       <section
         className="padding-x py-10"
         data-aos="fade-down"
-        data-aos-duration="1500"
+        data-aos-duration="1000"
         data-aos-delay="500"
       >
         <Services />
@@ -52,7 +52,7 @@ const App = () => {
       <section
         className="padding"
         data-aos="fade-down"
-        data-aos-duration="1500"
+        data-aos-duration="1000"
         data-aos-delay="500"
       >
         <SpecialOffer />
@@ -60,7 +60,7 @@ const App = () => {
       <section
         className="bg-pale-blue padding"
         data-aos="fade-down"
-        data-aos-duration="1500"
+        data-aos-duration="1000"
         data-aos-delay="500"
       >
         <CustomerReviews />
@@ -68,17 +68,12 @@ const App = () => {
       <section
         className="padding-x sm:py-32 py-16 w-full"
         data-aos="fade-down"
-        data-aos-duration="1500"
+        data-aos-duration="1000"
         data-aos-delay="500"
       >
         <Subscribe />
       </section>
-      <section
-        className=" bg-black padding-x padding-t pb-8"
-        data-aos="fade-down"
-        data-aos-duration="1500"
-        data-aos-delay="500"
-      >
+      <section className=" bg-black padding-x padding-t pb-8">
         <Footer />
       </section>
     </main>
